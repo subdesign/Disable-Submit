@@ -2,7 +2,7 @@
 
 ## Description
 
-  Disable submit button until the required field aren't filled out
+  Disable submit button until the required fields aren't filled out
 
 ## Author
 
